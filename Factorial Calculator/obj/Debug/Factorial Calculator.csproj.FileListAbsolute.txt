@@ -1,0 +1,10 @@
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.exe.config
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.exe
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\bin\Debug\Factorial Calculator.pdb
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial_Calculator.formFactorialCalculator.resources
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial_Calculator.Properties.Resources.resources
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.csproj.GenerateResource.Cache
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.exe
+C:\Users\Djester808\source\repos\Factorial Calculator\Factorial Calculator\obj\Debug\Factorial Calculator.pdb
